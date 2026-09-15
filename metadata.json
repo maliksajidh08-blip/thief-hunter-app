@@ -1,0 +1,6 @@
+{
+  "name": "Thief Hunter",
+  "description": "Smart anti-theft protection with motion & pocket alarms, registered device vault, live GPS tracking, community stolen reports, and intruder selfie logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
